@@ -1,11 +1,11 @@
 
       <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-        <circle cx="150" cy="100" r="90" fill="white"/>
+        <path d="M 150 4.7372055837117415 L 39.999999999999986 195.26279441628827 L 260 195.26279441628827 Z" fill="darkmagenta"/>
          
-          <text x="150" y="121.21212121212122" 
+          <text x="150" y="148.14814814814815" 
                 text-anchor="middle"
-                fill="black" font-size="56">
-            123
+                fill="white" font-size="48">
+            JIM
           </text>
         
       </svg>
