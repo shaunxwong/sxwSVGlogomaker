@@ -39,6 +39,6 @@ As a freelance web developer, you can now generate a simple, yet captivating log
 
 ## See SVG Artistry in Action
 
-Curious to see SVG Artistry in action? Check out our [Instructional Video]() for a step-by-step guide on how to create your perfect logo.
+Curious to see SVG Artistry in action? Check out our [Instructional Video](https://www.loom.com/share/3517f7555bdb4982b186b20c5745a262) for a step-by-step guide on how to create your perfect logo.
 
 Unlock the artist within you with SVG Artistry! Happy logo making! 🎨✨
